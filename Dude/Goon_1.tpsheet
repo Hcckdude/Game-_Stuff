@@ -1,0 +1,198 @@
+{
+	"textures": [
+		{
+			"image": "Goon_1.png",
+			"size": {
+				"w": 4800,
+				"h": 3216
+			},
+			"sprites": [
+				{
+					"filename": "tile000.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile001.png",
+					"region": {
+						"x": 0,
+						"y": 1072,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile002.png",
+					"region": {
+						"x": 0,
+						"y": 2144,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile003.png",
+					"region": {
+						"x": 1200,
+						"y": 0,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile004.png",
+					"region": {
+						"x": 1200,
+						"y": 1072,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile005.png",
+					"region": {
+						"x": 1200,
+						"y": 2144,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile006.png",
+					"region": {
+						"x": 2400,
+						"y": 0,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile007.png",
+					"region": {
+						"x": 2400,
+						"y": 1072,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile008.png",
+					"region": {
+						"x": 2400,
+						"y": 2144,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile009.png",
+					"region": {
+						"x": 3600,
+						"y": 0,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile010.png",
+					"region": {
+						"x": 3600,
+						"y": 1072,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "tile011.png",
+					"region": {
+						"x": 3600,
+						"y": 2144,
+						"w": 1200,
+						"h": 1072
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4dc7a689de2d03f0595471d839f2e0cb:d936c64df1db64f2cd189c0d41f3a4e6:8fc4b89551c1a432db909bfe2ab41a15$"
+	}
+}

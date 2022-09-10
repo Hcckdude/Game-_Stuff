@@ -1,0 +1,708 @@
+{
+	"textures": [
+		{
+			"image": "Sprite-Check.png",
+			"size": {
+				"w": 7200,
+				"h": 5700
+			},
+			"sprites": [
+				{
+					"filename": "Character_Pallet_Sheet4-34.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 898,
+						"h": 1898
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": -948
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-44.png",
+					"region": {
+						"x": 1,
+						"y": 1901,
+						"w": 898,
+						"h": 1898
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": -948
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-0.png",
+					"region": {
+						"x": 1,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-1.png",
+					"region": {
+						"x": 1,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-10.png",
+					"region": {
+						"x": 901,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-11.png",
+					"region": {
+						"x": 901,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-12.png",
+					"region": {
+						"x": 901,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-13.png",
+					"region": {
+						"x": 901,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-14.png",
+					"region": {
+						"x": 901,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-15.png",
+					"region": {
+						"x": 901,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-16.png",
+					"region": {
+						"x": 1801,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-17.png",
+					"region": {
+						"x": 1801,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-18.png",
+					"region": {
+						"x": 1801,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-19.png",
+					"region": {
+						"x": 1801,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-2.png",
+					"region": {
+						"x": 1801,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-20.png",
+					"region": {
+						"x": 1801,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-21.png",
+					"region": {
+						"x": 2701,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-22.png",
+					"region": {
+						"x": 3601,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-23.png",
+					"region": {
+						"x": 4501,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-24.png",
+					"region": {
+						"x": 5401,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-25.png",
+					"region": {
+						"x": 6301,
+						"y": 1,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-26.png",
+					"region": {
+						"x": 2701,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-27.png",
+					"region": {
+						"x": 2701,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-28.png",
+					"region": {
+						"x": 2701,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-29.png",
+					"region": {
+						"x": 2701,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-3.png",
+					"region": {
+						"x": 2701,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-30.png",
+					"region": {
+						"x": 3601,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-31.png",
+					"region": {
+						"x": 4501,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-32.png",
+					"region": {
+						"x": 5401,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-33.png",
+					"region": {
+						"x": 6301,
+						"y": 951,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-35.png",
+					"region": {
+						"x": 3601,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-36.png",
+					"region": {
+						"x": 3601,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-37.png",
+					"region": {
+						"x": 3601,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-38.png",
+					"region": {
+						"x": 3601,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-39.png",
+					"region": {
+						"x": 4501,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-4.png",
+					"region": {
+						"x": 5401,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-40.png",
+					"region": {
+						"x": 6301,
+						"y": 1901,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-41.png",
+					"region": {
+						"x": 4501,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-42.png",
+					"region": {
+						"x": 4501,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-43.png",
+					"region": {
+						"x": 4501,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-45.png",
+					"region": {
+						"x": 5401,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-5.png",
+					"region": {
+						"x": 6301,
+						"y": 2851,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-6.png",
+					"region": {
+						"x": 5401,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-7.png",
+					"region": {
+						"x": 5401,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-8.png",
+					"region": {
+						"x": 6301,
+						"y": 3801,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "Character_Pallet_Sheet4-9.png",
+					"region": {
+						"x": 6301,
+						"y": 4751,
+						"w": 898,
+						"h": 948
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d7d5a57de361c6aec5456040852115c7:dc3eea8c2fbd758be0f2a261b2630864:e1a6af89f81dd61171854ce807e378cb$"
+	}
+}
