@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/spritesheet.tpsheet-cec2bf6a6dcd5e1f09bcde718a28e2e2.res"
+
+[deps]
+
+files=[ "res://Action RPG Resources/Player/spritesheet.sprites/tile000.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile001.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile002.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile003.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile004.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile005.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile006.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile007.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile008.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile009.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile010.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile011.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile012.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile013.tres" ]
+
+source_file="res://Action RPG Resources/Player/spritesheet.tpsheet"
+dest_files=[ "res://.import/spritesheet.tpsheet-cec2bf6a6dcd5e1f09bcde718a28e2e2.res", "res://Action RPG Resources/Player/spritesheet.sprites/tile000.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile001.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile002.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile003.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile004.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile005.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile006.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile007.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile008.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile009.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile010.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile011.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile012.tres", "res://Action RPG Resources/Player/spritesheet.sprites/tile013.tres" ]
+
+[params]
+
